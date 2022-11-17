@@ -14,8 +14,6 @@ extern "C" {
 
 #define FCY 40000000
 
-
-
 void InitOscillator();
 
 
