@@ -33,6 +33,5 @@ int main (void)
     // Boucle Principale
     /****************************************************************************************************/
     while(1){
-        LED_BLANCHE = !LED_BLANCHE;
     } 
 }// fin main

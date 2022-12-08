@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/timer.c</file>
+            <file>file:/C:/Users/HP/.mchp_packs/Microchip/dsPIC33E-GM-GP-MC-GU-MU_DFP/1.4.139/xc16/support/dsPIC33E/h/p33EP512GM706.h</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/IO.c</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/main.c</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/IO.h</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/timer.h</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/robot_project/part1_autonomous.X/ChipConfig.h</file>
+        </group>
     </open-files>
 </project-private>
