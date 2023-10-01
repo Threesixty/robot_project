@@ -1,10 +1,3 @@
-/* 
- * File:   IO.h
- * Author: TP_EO_6
- *
- * Created on 17 novembre 2022, 15:00
- */
-
 #ifndef IO_H
 #define IO_H
 
